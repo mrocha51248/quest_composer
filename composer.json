@@ -1,0 +1,12 @@
+{
+    "name": "wilder/compo-q",
+    "description": "Quete",
+    "authors": [{
+        "name": "Mario Rocha",
+        "email": "test@test.test"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": { "App\\": "src/" }
+    }
+}
